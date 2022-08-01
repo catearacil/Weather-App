@@ -1,0 +1,15 @@
+input {
+    border-radius: 7px;
+    margin-right: 5px;
+}
+
+.Search {
+    width: 65px;
+    margin-top: 10px;
+}
+
+.Search:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
+}

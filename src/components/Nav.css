@@ -1,0 +1,51 @@
+
+
+.WeatherApp{
+  font-family: 'Timmana', sans-serif;
+  font-weight: 4px;
+  font-size: 51px;
+  /* margin-right: 10px; */
+  color: black;
+  transition:all .5s ease-in-out;
+  background-color: rgba(255, 255, 255, 0.567);
+  margin-bottom: 10px;
+  margin: 0%;
+  
+  
+}
+.WeatherApp:hover{
+  transition: all 0.5s ease;
+
+  
+
+}
+
+.About{
+  font-family: 'Timmana', sans-serif;
+  color: black;
+  position: relative; 
+  /* margin-left: 200px;  */
+  font-size: 25px;
+  /* margin-bottom: 10px; */
+  /* margin-top: 50px; */
+ 
+}
+
+.About:hover{
+  text-decoration:underline;
+}
+
+
+.logo {
+  right: 90px;
+  width: 90px;
+  height: 90px;
+  position: relative;
+  left: -8px;
+}
+
+.link:hover{
+  text-decoration: none;
+ 
+
+}

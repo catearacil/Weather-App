@@ -1,0 +1,25 @@
+/* .App {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+} */
+
+.styles {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  background-image: url(https://i.pinimg.com/736x/04/37/ec/0437ecda1674a2854d777dfe46a9d13b.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  overflow: scroll;
+  
+}
+
+
